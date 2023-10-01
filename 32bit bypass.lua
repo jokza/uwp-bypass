@@ -70,7 +70,11 @@ end))
 
 local newversion
 task.spawn(function()
-    newversion = game:GetService("HttpService"):JSONDecode(game:HttpGetAsync("https://clientsettings.roblox.com/v2/client-version/WindowsPlayer")).version
+    repeat wait()
+        pcall(function()
+            newversion = game:GetService("HttpService"):JSONDecode(game:HttpGetAsync("https://clientsettings.roblox.com/v2/client-version/WindowsPlayer")).version
+        end)
+    until newversion
 end)
 
 local getVersionMiddleware = Instance.new("BindableFunction")
