@@ -1,5 +1,5 @@
 --credit: https://v3rmillion.net/showthread.php?tid=1214181
-
+repeat wait() until hookfunction
 local typeof = typeof
 local hookfunc = hookfunction
 local getmt = getrawmetatable or debug.getmetatable
@@ -10,9 +10,6 @@ local cache = setmetatable({}, {__mode = "k"})
 local possibleMemoryChars = {
     "a", "b", "c", "d", "e", "f", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9"
 }
-
--- Secure call implementation for (more) secure calling of tostring
--- Still detectable though.
 
 local setidentity = setidentity or setthreadidentity or set_thread_identity or setthreadcontext or set_thread_context or (syn and syn.set_thread_identity)
 local getidentity = getidentity or getthreadidentity or get_thread_identity or getthreadcontext or get_thread_context or (syn and syn.get_thread_identity)
