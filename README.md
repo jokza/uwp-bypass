@@ -6,4 +6,4 @@ http://jagt.github.io/clumsy/download.html
 ![RjRiVwUWZz](https://github.com/SlimBroPunk/uwp-bypass/assets/40482717/889aeda1-2cbb-424c-86f4-a3132c5ab022)
 
 put this script in autoxec 
-[32-bit bypass](https://github.com/SlimBroPunk/uwp-bypass/blob/main/32bit%20bypass.lua)https://github.com/SlimBroPunk/uwp-bypass/blob/main/32bit%20bypass.lua
+[32-bit bypass](https://github.com/SlimBroPunk/uwp-bypass/blob/main/32bit%20bypass.lua)
