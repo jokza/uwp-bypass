@@ -1,5 +1,6 @@
 # uwp-bypass
 
+# BUY FROSTHUB
 paste this in filtering ``ip.DstAddr >= 128.116.0.0 and ip.DstAddr <= 128.116.127.255``
 follow my config works for clumsy 0.2 and 0.3 download here & it wouldnt lag anything other than roblox
 http://jagt.github.io/clumsy/download.html
