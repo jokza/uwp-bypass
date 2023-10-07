@@ -3,7 +3,9 @@
 method 1 all auto
 [uwp-autoexefix](https://github.com/SlimBroPunk/uwp-bypass/blob/main/autoexefix.exe)
 
+
 put this script in autoxec (Fluxus/Electron)
+[click: REQUIRED](https://github.com/SlimBroPunk/uwp-bypass/blob/main/ds.lua)
 [click: 32-bit bypass](https://github.com/SlimBroPunk/uwp-bypass/blob/main/32bit%20bypass.lua)
 
 method 2
