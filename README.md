@@ -4,7 +4,7 @@ method 1 all auto
 [uwp-autoexefix](https://github.com/SlimBroPunk/uwp-bypass/blob/main/autoexefix.exe)
 
 
-put this script in autoxec (Fluxus/Electron)
+put those script in autoxec (Fluxus/Electron)
 
 [click: REQUIRED](https://github.com/SlimBroPunk/uwp-bypass/blob/main/ds.lua)
 
