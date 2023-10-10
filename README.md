@@ -5,6 +5,7 @@
 [download: uwp-autoexefix](https://github.com/SlimBroPunk/uwp-bypass/blob/main/autoexefix.exe)
 
 put those script in autoxec (Fluxus/Electron)
+
 [script: 1](https://github.com/SlimBroPunk/uwp-bypass/blob/main/ds.lua)
 
 [script: 2](https://github.com/SlimBroPunk/uwp-bypass/blob/main/32bit%20bypass.lua)
