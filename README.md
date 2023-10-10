@@ -1,4 +1,5 @@
 # uwp-bypass
+# [BUY FROSTHUB](https://shoppy.gg/product/HJymW3B), discord.gg/frosthub
 
 method 1 automatic process
 
@@ -10,8 +11,7 @@ put those script in autoxec (Fluxus/Electron)
 
 [script: 2](https://github.com/SlimBroPunk/uwp-bypass/blob/main/32bit%20bypass.lua)
 
-method 2
-# [BUY FROSTHUB](https://shoppy.gg/product/HJymW3B), discord.gg/frosthub
+method 2 clumsy
 paste this in filtering ``ip.DstAddr >= 128.116.0.0 and ip.DstAddr <= 128.116.127.255``
 follow my config works for clumsy 0.2 and 0.3 download here & it wouldnt lag anything other than roblox
 http://jagt.github.io/clumsy/download.html
