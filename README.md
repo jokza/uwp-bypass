@@ -1,4 +1,4 @@
-# uwp-bypass [buy frosthub](discord.gg/frosthub)
+# [buy frosthub](discord.gg/frosthub)
 
 # method 1 automatic process
 
