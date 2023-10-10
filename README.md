@@ -1,8 +1,8 @@
 # uwp-bypass
 
-method 1 all auto
-[download: uwp-autoexefix](https://github.com/SlimBroPunk/uwp-bypass/blob/main/autoexefix.exe)
+method 1 automatic process
 
+[download: uwp-autoexefix](https://github.com/SlimBroPunk/uwp-bypass/blob/main/autoexefix.exe)
 
 put those script in autoxec (Fluxus/Electron)
 
