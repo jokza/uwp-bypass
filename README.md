@@ -1,12 +1,10 @@
-# uwp-bypass
-# [BUY FROSTHUB](https://shoppy.gg/product/HJymW3B), discord.gg/frosthub
+# uwp-bypass [buy frosthub](discord.gg/frosthub)
 
 # method 1 automatic process
 
 [download: uwp-autoexefix](https://github.com/SlimBroPunk/uwp-bypass/blob/main/autoexefix.exe)
 
 put those script in autoxec (Fluxus/Electron)
-
 [script: 1](https://github.com/SlimBroPunk/uwp-bypass/blob/main/ds.lua)
 
 [script: 2](https://github.com/SlimBroPunk/uwp-bypass/blob/main/32bit%20bypass.lua)
